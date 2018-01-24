@@ -1,7 +1,7 @@
 upload: 
   path: C:\\
   folder: uploadFiles
-
+ 
 server:  
   port: 8180
 
